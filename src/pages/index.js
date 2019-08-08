@@ -30,7 +30,7 @@ const Logo = styled.div`
   font-size: 2rem;
   font-family: serif;
   color: #4A4A4A;
-  margin-bottom: 5rem;
+  margin-bottom: 4rem;
 `
 const Title = styled.div`
   font-size: 4rem;
