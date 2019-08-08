@@ -12,9 +12,7 @@ const IndexPage = () => (
         <Logo>New York Shidduch Center</Logo>
         <Title>Forget Everything You Know About Shidduchim</Title>
         <Text>Shadchanim who care. Programs curated for you. Helping you find your bashert.</Text>
-        {/* <div style={{ maxWidth: `300px`, marginBottom: `1.45rem` }}> */}
         <Link to="/get-involved"><Button>Get Involved</Button></Link>
-      {/* </div> */}
     </Container>
   </Layout>
 )
