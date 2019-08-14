@@ -6,7 +6,7 @@ import SEO from "../components/seo"
 
 const Where = () => (
   <Layout>
-    <SEO title="Page two" />
+    <SEO title="Where" />
     <Header>Where?</Header>
 
     <p>We're not sure if there will be a dedicated physical location, but we'd love to have one.</p>

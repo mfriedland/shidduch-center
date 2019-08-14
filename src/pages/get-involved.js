@@ -1,5 +1,4 @@
 import React from "react"
-import { Link } from "gatsby"
 import styled from 'styled-components'
 
 import Layout from "../components/layout"
@@ -7,9 +6,8 @@ import SEO from "../components/seo"
 
 const What = () => (
   <Layout>
-    <SEO title="Page two" />
+    <SEO title="Get Involved" />
     <Header>Get Involved</Header>
-    <Link to="/">Go back to the homepage</Link>
   </Layout>
 )
 

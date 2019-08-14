@@ -6,7 +6,7 @@ import SEO from "../components/seo"
 
 const Who = () => (
   <Layout>
-    <SEO title="Page two" />
+    <SEO title="Who" />
     <Header>Who?</Header>
 
     <p>Right now there's us - a dedicated group of individuals who care so deeply about</p>

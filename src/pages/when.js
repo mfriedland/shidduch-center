@@ -6,7 +6,7 @@ import SEO from "../components/seo"
 
 const When = () => (
   <Layout>
-    <SEO title="Page two" />
+    <SEO title="When" />
     <Header>When?</Header>
   </Layout>
 )

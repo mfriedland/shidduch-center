@@ -6,7 +6,7 @@ import SEO from "../components/seo"
 
 const What = () => (
   <Layout>
-    <SEO title="Page two" />
+    <SEO title="What" />
     <Header>What<span style={{color: '#4A4A4A'}}> we believe is possible</span>?</Header>
     {/* <p><span style={{fontWeight: 'bold', color: '#FF0083'}}> */}
     <h3 style={{textDecoration: 'underline'}}>Education:</h3>
@@ -34,13 +34,16 @@ const What = () => (
     <p>Coaching</p>
     <p>Tracking - keeping up with each single in the process (and also maintain high level of conduct)</p>
     <p>Selectivity - not in terms of exclusiveness, but to ensure we work with mentchlikite individuals</p>
+    <hr></hr>
+
+    <h3 style={{textDecoration: 'underline'}}>Center:</h3>
+    <p>A designated destination for all things shidduchim.</p>
+    <p>Coffee shop where singles can meet.</p>
+    <p>Games: board games, ping pong, darts, pool (?), air hockey (?), etc.</p>
+    <p></p>
   </Layout>
 )
 
-const Title = styled.div`
-  font-size: 1.25rem;
-  margin-bottom: 3rem;
-`
 const Header = styled.div`
   font-size: 2rem;
   margin-bottom: 3rem;

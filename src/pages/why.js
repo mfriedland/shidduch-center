@@ -6,7 +6,7 @@ import SEO from "../components/seo"
 
 const Why = () => (
   <Layout>
-    <SEO title="Page two" />
+    <SEO title="Why" />
     <Header>Why?</Header>
     <p>
       To parents, singles, and shadchanim: we personally feel the pain of the shidduch crisis, we’re involved because we have a child in the parsha or we believe this is an avodas kodesh, and we’re doing something about it because we know something must be done.

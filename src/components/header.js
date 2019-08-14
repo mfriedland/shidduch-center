@@ -85,12 +85,5 @@ const NYSC = styled.div`
   margin-left: 49%
   margin-top: 25px;
 `
-const Questions = styled.div`
-  flex: 9;
-`
-const When = styled.div`
-  flex: 1;
-`
-
 
 export default Header
